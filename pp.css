@@ -16,6 +16,10 @@ body
     left: 37%;
     border: 20px double aquamarine;
 }
+div.w span
+{
+    
+}
 div.w:hover
 {
     color: fuchsia;
@@ -77,11 +81,13 @@ button:hover
 }
 .ww
 {
-    margin-left: 800px; 
+    position: relative;
+    left: 40%;
 }
 div.mm
 {
-    margin-right: 570px;
+    position: relative;
+    right: 30.5%;
 }
 a
 {
