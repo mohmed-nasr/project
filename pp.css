@@ -1,0 +1,93 @@
+body
+{
+    background-color:aquamarine;
+    margin: 0px;
+}
+.w
+{
+    background-color:darkseagreen;
+    height: auto;
+    width: 480px;
+    font-size:60px;
+    color:aquamarine;
+    text-align: center;
+    margin: 0px;
+    margin-left:37%;
+    border: 20px double aquamarine;
+}
+div.w:hover
+{
+    color: fuchsia;
+    border: 20px double green;
+}
+ul.e
+{
+    direction: rtl;
+    list-style: none inside none;
+    font: italic 30px / 80px sans-serif; 
+    
+}/*
+ul:hover
+{
+    color: fuchsia;
+    border: 20px double green;
+}*/
+li
+{
+    text-align: center;
+}
+li.a
+{
+    margin-top: 30px;
+}
+li:hover
+{
+    color: fuchsia;
+    border: 20px double green;
+    font-size: 50px;
+}
+.a,.s,.d,.f,.g,.h
+{
+    border-right:  20px solid green;
+    border-left:  20px solid green;
+    width: 600px;
+}
+.a
+{
+    border-top: 20px solid green;
+}
+.h
+{
+    border-bottom:  20px solid green;
+}
+button
+{
+    background-color: deepskyblue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: monospace;
+    color: firebrick;
+}
+button:hover
+{
+    font-size: 50px;
+    color: dodgerblue;
+}
+.ww
+{
+    margin-left: 800px; 
+}
+div.mm
+{
+    margin-right: 570px;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: fuchsia;
+    font-size: 50px;
+}
