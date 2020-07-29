@@ -13,21 +13,30 @@ body
     text-align: center;
     margin: 0px;
     position: relative;
-    left: 37%;
+    left:37%;
     border: 20px double aquamarine;
-}
-div.w span
-{
-    
 }
 div.w:hover
 {
     color: fuchsia;
     border: 20px double green;
 }
+p.ll
+{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-style:italic;
+    text-align: center;
+}
+div.mm
+{
+    width:70%;
+    position: relative;
+    left:30%;
+}
 ul.e
 {
-    direction: rtl;
+    
     list-style: none inside none;
     font: italic 30px / 80px sans-serif; 
     
@@ -41,10 +50,6 @@ li
 {
     text-align: center;
 }
-li.a
-{
-    margin-top: 30px;
-}
 li:hover
 {
     color: fuchsia;
@@ -55,7 +60,7 @@ li:hover
 {
     border-right:  20px solid green;
     border-left:  20px solid green;
-    width: 600px;
+    width: 50%;
 }
 .a
 {
@@ -81,14 +86,11 @@ button:hover
 }
 .ww
 {
+    width: 60%;
     position: relative;
     left: 40%;
 }
-div.mm
-{
-    position: relative;
-    right: 30.5%;
-}
+
 a
 {
     text-decoration: none;
