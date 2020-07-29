@@ -7,13 +7,13 @@ body
 {
     background-color:darkseagreen;
     height: auto;
-    width: 480px;
+    width: 490px;
     font-size:60px;
     color:aquamarine;
     text-align: center;
     margin: 0px;
     position: relative;
-    left:37%;
+    left:36%;
     border: 20px double aquamarine;
 }
 div.w:hover
