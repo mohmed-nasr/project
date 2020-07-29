@@ -70,6 +70,10 @@ li:hover
 {
     border-bottom:  20px solid green;
 }
+.a,.s,.d,.f,.g
+{
+    border-bottom: 2px solid green;
+}
 button
 {
     background-color: deepskyblue;
